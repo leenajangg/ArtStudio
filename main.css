@@ -1,0 +1,122 @@
+body {background-color: #f8bfbf;
+      font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;}
+
+header {text-align: center;
+	margin: 3.5%;
+     padding: 2%;
+     background-color: #ffeab8;
+     border: dotted;
+     border-width: 0.6vw;
+     border-color: #f17e7e;
+     border-radius: 2.2vw;}
+
+.top {margin: 3.5%;
+     padding: 2%;
+     background-color: #ffedc2;
+     border: dotted;
+     border-width: 0.4vw;
+     border-color: #ffa71a;
+     border-radius: 2.2vw;}
+     
+.lss {font-size: calc(25px + 2vw);
+	   color: #ea4343;
+       text-transform: uppercase;}
+       
+.tagl {font-size: calc(3px + 1.5vw);
+	color: #ee6363;}
+ 
+.navigli {list-style-type: none;
+	display: inline;
+	padding-left: 4%;
+	padding-right: 4%;
+	font-size: calc(3px + 1.5vw);}
+	
+.navig {text-align: center;
+	background-color: #ffdd8f;
+	margin: 3.5%;
+    padding: 2%;
+    border-radius: 2.2vw;}
+	
+.navund {color: #f17e7e;
+		text-decoration: none;}
+		
+a.navund:hover {text-decoration:none;
+				color: #5c0a0a;}
+
+.welcome {text-align: center;
+    font-weight: bold;
+    color: #7c0e0e;
+    font-size: calc(10px + 2.5vw);}
+ 
+.first {text-align: center;
+		margin: 3.5%;}   
+			    
+.title {text-align: center;
+    font-weight: bold;
+    color: #ae1313;
+    font-size: calc(10px + 1.8vw);}
+       
+.center {max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+/*padding auto is not a thing*/
+  padding-left: auto;
+  padding-right: auto;
+  border-radius: 2.2vw;}
+     
+.intro {text-align: center;
+		font-size: calc(5px + 1vw);
+		margin-top: 3%;}
+     
+#main-content {margin: 3.5%;
+     padding: 2%;
+     background-color: #fff1d1;
+     border-radius: 2.2vw;}
+
+p {color: #5c0a0a;
+	font-size: calc(5px + 1vw);}
+
+h2 {text-align: center;
+	color: #ae1313;
+	font-size: calc(8px + 1.5vw);}
+
+ul {color: #5c0a0a;
+	font-size: calc(5px + 1vw);}
+
+h3 {color: #e93535;
+	font-size: calc(5px + 1.5vw);}
+
+ol {color: #5c0a0a;
+	font-size: calc(5px + 1vw);}
+
+a {color: #ae1313;
+   text-decoration: none;}	
+
+.more {text-align: center;
+	margin: 3.5%;
+     padding: 2%;
+     background-color: #ffedc2;
+     border: dotted;
+     border-width: 0.6vw;
+     border-color: #ffa71a;
+     border-radius: 2.2vw;}
+     
+footer {text-align: center;
+	background-color: #ffeab8;
+	margin: 3.5%;
+    padding: 2%;
+    border-radius: 2.2vw;}
+
+.lsd {font-size: calc(20px + 1.5vw);
+	   color: #ea4343;
+       text-transform: uppercase;
+       text-align: center;
+       text-decoration: underline;}
+       
+.credt {text-align: center;}
+
+.creda {color: #f17e7e;
+		text-decoration: underline;}
+		
+a.creda:hover {color: #5c0a0a;}}
